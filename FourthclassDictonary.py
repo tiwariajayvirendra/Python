@@ -125,3 +125,36 @@
 
 # SOlutions
 
+# dictonary={
+#     "cat":"It is  A Animal",
+#     "table":["a peace of furniture ","List of fact and figures"]
+# }
+# print(dictonary)
+
+# Q2   solution
+
+# subjects= {
+#     "Python", "java","C++","C","Javascript","Python","java","C++","java"
+#     }
+
+# print(len(subjects))
+
+# Q3 Solution
+
+
+marks = {}
+
+x = int(input("Enter you phy:"))
+marks.update({"phy":x})
+
+
+y = int(input("Enter you Chem:"))
+marks.update({"chem":y})
+
+z = int(input("Enter you Math:"))
+marks.update({"Math":z})
+
+
+print(marks)
+
+
