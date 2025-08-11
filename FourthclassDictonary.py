@@ -142,19 +142,19 @@
 # Q3 Solution
 
 
-marks = {}
+# marks = {}
 
-x = int(input("Enter you phy:"))
-marks.update({"phy":x})
-
-
-y = int(input("Enter you Chem:"))
-marks.update({"chem":y})
-
-z = int(input("Enter you Math:"))
-marks.update({"Math":z})
+# x = int(input("Enter you phy:"))
+# marks.update({"phy":x})
 
 
-print(marks)
+# y = int(input("Enter you Chem:"))
+# marks.update({"chem":y})
+
+# z = int(input("Enter you Math:"))
+# marks.update({"Math":z})
+
+
+# print(marks)
 
 
