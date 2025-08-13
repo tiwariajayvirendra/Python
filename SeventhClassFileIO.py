@@ -34,11 +34,11 @@
         #         print(f"{word} is present in line {line_no}")
         #         data = False
         #     line_no += 1
-count = 0
-with open("parcle.txt", "r") as f:
-    data=f.read()
+# count = 0
+# with open("parcle.txt", "r") as f:
+#     data=f.read()
      
-    # num= ""
+#     # num= ""
     # for i in range(len(data)):
     #     if (data[i] == ","):
     #         print(num)
